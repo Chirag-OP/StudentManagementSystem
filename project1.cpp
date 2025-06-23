@@ -1,10 +1,10 @@
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
-bool changesMade = false; // ideas-
+bool changesMade = false; 
 class Student
-{                // 1-make a function to create new file(also renameing like english_marks)                                                     //2-make lowercase function(check if needed - donot think needed now)
-    string Name; // 3-data transfer between files possible(ex-newfile=maths_marks just update marks)
+{                                                                 
+    string Name; 
     int RollNo;
     double Marks;
 
