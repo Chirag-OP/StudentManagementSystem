@@ -1,0 +1,4 @@
+name: chirag tayal rollNo: 1195 marks: 100
+name: pragy bagoria rollNo: 1234 marks: 80
+name: amita rollNo: 1889 marks: 30
+name: ani rollNo: 1999 marks: 23
